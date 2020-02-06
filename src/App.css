@@ -46,7 +46,7 @@
 
 }
 
-@media (max-width: 350px) {
+@media (max-width: 414px) {
   .flex-grid {
     display: block;
   }
