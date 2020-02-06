@@ -18,8 +18,8 @@ function App() {
           We have served 5140 meals to 91 charity homes.
         </p>
 
-        <p>
-          Our website is under construction.
+        <p stlye={{ fontSize: '8px' }}>
+          Website is under construction.
        </p>
 
 
