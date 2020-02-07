@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  font-family: 'Couture';
+
+  
   
 }
 
@@ -35,6 +38,8 @@
 }
 
 .Icons {
+  font-family: 'Couture';
+
 
   font-size: 19px;
   display: flex;

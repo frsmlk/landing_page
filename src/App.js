@@ -11,8 +11,8 @@ import GlobalFonts from './fonts/fonts';
 
 function App() {
   return (
-    <div className="App" style={{ backgroundColor: '#f5f5ed' }}>
-      <header className="App-header" >
+    <div className="App" style={{ backgroundColor: '#f5f5ed', marginBlock: '5px' }}>
+      <header className="App-header"  >
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           We have served 5140 meals to 91 charity homes.
